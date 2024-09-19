@@ -23,8 +23,8 @@ python main.py 30
 
 ouvrez ces deux fichiers et prenez le temps de les lire; que pouvez-vous en dire ?
 
-***
-***
+*** La fonction fibo est une fonction récursive qui prend en argument un entier n et renvoie la n-ieme valeur de la suite de fibonacci.
+*** Le fichier main.py permet d'exécuter le code dans le terminal.
 ***
 
 * la fonction `fibo()` est écrite de manière totalement sous-optimale, sa complexité est en $O(2^n)$
